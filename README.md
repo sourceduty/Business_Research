@@ -4,5 +4,12 @@
 
 "Business Research" can be particularly helpful in enhancing strategic decision-making and planning. By adapting to the complexity of users' requirements—offering deeper dives into specific areas or broader overviews as needed—it provides insights into relevant business models, frameworks, and analytical tools. This tailored assistance not only augments users' understanding of the business landscape but also equips them with the knowledge and tools necessary for effective analysis and planning. Through dynamic interaction, it continuously refines its guidance based on user feedback, ensuring the research path and outcomes are as relevant and useful as possible.
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Resarch Automation](https://github.com/sourceduty/Research_Automation)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
